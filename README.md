@@ -1,12 +1,39 @@
-# React + Vite
+# 🎨 Remagine – AI-Powered Image Quality Enhancer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Remagine** is a sleek and simple web app that allows users to upscale and enhance their images effortlessly using the power of the [PicWish API](https://picwish.com/api). Whether you're looking to bring life to old photos or sharpen low-resolution images, Remagine does it all—instantly and beautifully.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🌟 **AI-Powered Enhancement** – Uses PicWish to upscale and clarify images.
+- 📷 **User-Friendly Interface** – Minimal, responsive UI focused on simplicity.
+- 🔒 **Privacy-Friendly** – Images are not stored; all enhancements are done via API.
+- ⚡ **Fast & Smooth** – Optimized for speed and ease of use.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖥️ Live Demo
+
+👉 [Click here to try Remagine](#)  
+*(Link your deployed site here once available)*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **API Integration:** [PicWish API](https://picwish.com/api)
+- **Tools:** VSCode, GitHub
+
+---
+
+## 📸 How It Works
+
+1. Upload your image.
+2. Remagine sends the image to the PicWish API.
+3. The enhanced image is displayed and ready for download.
+
+---
+
+> **Made with ❤️ by [Debaish Nayak]**
