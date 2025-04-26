@@ -15,7 +15,7 @@
 
 ## 🖥️ Live Demo
 
-👉 [Click here to try Remagine](#)  
+👉 [Click here to try Remagine](https://remagine-plum.vercel.app/)  
 *(Link your deployed site here once available)*
 
 ---
@@ -25,6 +25,7 @@
 - **Frontend:** React, Vite, Tailwind
 - **API Integration:** [PicWish API](https://picwish.com/api)
 - **Tools:** VSCode, GitHub
+- **Deployment:** Vercel
 
 ---
 
