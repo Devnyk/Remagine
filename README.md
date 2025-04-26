@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** React, Vite, Tailwind
 - **API Integration:** [PicWish API](https://picwish.com/api)
 - **Tools:** VSCode, GitHub
 
